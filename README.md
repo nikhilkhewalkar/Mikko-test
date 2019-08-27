@@ -15,4 +15,5 @@ contains the bonus payment date
 
 
 Executing the script
-Please execute salary.php with appending -f <FILE NAME> at the end. If not given the default file name will be test.csv.
+
+Please execute salary.php with appending -f *FILE NAME* at the end. If not given the default file name will be test.csv.
