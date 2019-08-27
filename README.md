@@ -11,3 +11,8 @@ The output of the utility should be a CSV file, containing the payment dates for
 remainder of this year. The CSV file should contain a column for the month name, a
 column that contains the salary payment date for that month, and a column that
 contains the bonus payment date
+
+
+
+Executing the script
+Please execute salary.php with appending -f <FILE NAME> at the end. If not given the default file name will be test.csv.
